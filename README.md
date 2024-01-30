@@ -1,7 +1,7 @@
 # Hi There! I'm Reza:
 
 ## 👨‍💻 About me:
-- 🎓 Education:  Computer Engineering Studend at Azad University Of Bojnourd
+- 🎓 Education:  Computer Engineering Student at Azad University Of Bojnourd
 - 🧠 Mathematics & Machine Learning Enthusiast
 - ☢️ Dangerous level of curiosity(Please be careful!⚠️)
 - 😍 Science & Technology lover
