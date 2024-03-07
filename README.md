@@ -6,7 +6,6 @@
 - ☢️ Dangerous level of curiosity(Please be careful!⚠️)
 - 😍 Science & Technology lover
 - 🔍 Working hard to be a Computer Scientist & AI Researcher
-- 📚 Book lover(I dream of books at night!)
 
 ## 💻 Tools and skills I am learning:
 ### 📜 Languages
