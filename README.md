@@ -23,9 +23,6 @@
 <a href="https://www.djangoproject.com/">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </a><br>
-<a href="https://matplotlib.org/">
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/> 
-</a><br>
 <a href="https://opencv.org/">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Opencv"/>
 </a><br>
@@ -43,8 +40,7 @@
 </a><br>
 <a href="https://pandas.pydata.org/"> 
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-</a><br>
-<a href="https://scipy.org/"> 
+</a><br><a href="https://scipy.org/"> 
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy"/>  
 </a>
 
@@ -60,12 +56,6 @@
 <a href="https://www.postgresql.org/docs/">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgressql">
 </a><br>
-<a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-us_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624338&adgroup=115749704103&cq_cmp=12212624338&gad_source=1&gclid=CjwKCAiA9ourBhAVEiwA3L5RFnjkCpBPxkHYxxfpXDUYwyd4nmxOpbFUOOYl3s1aLBoVexvG9CDpjRoCkJUQAvD_BwE">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</a><br>
-<a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</a>
 
 ### ⌨️ Other
 <a href="https://www.docker.com/pricing/?utm_source=google&utm_medium=cpc&utm_campaign=search_na_brand&utm_term=docker_exact&gad_source=1&gclid=CjwKCAiA9ourBhAVEiwA3L5RFldbxS2G9_Nx2dV1s5uhlccK6xyx7Dhm9MIQDOcN1kc7mMvvKQNhXxoC59YQAvD_BwE">
