@@ -1,6 +1,7 @@
 # Hi There! I'm Reza:
 
 ## 👨‍💻 About me:
+- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) Average Vim User
 - 🎓 Just a computer engineering student
 - 🧠 Mathematics & Machine Learning & Systems Programming Enthusiast
 - ☢️ Dangerous level of curiosity(Please be careful!⚠️)
@@ -13,10 +14,10 @@
 </a><br>
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Language"/>
+</a><br>
+<a href="https://doc.rust-lang.org/book/">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
 </a>
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
 
 ### 📚 Libararies & Frameworks
 <a href="https://keras.io/">
