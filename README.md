@@ -50,22 +50,12 @@
 <a href="https://www.linux.org/">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </a><br>
-<a href="https://www.microsoft.com/en-us/windows">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</a>
 
 ### 💾 DataBases
 <a href="https://www.postgresql.org/docs/">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgressql">
 </a><br>
 
-### ⌨️ Other
-<a href="https://www.docker.com/pricing/?utm_source=google&utm_medium=cpc&utm_campaign=search_na_brand&utm_term=docker_exact&gad_source=1&gclid=CjwKCAiA9ourBhAVEiwA3L5RFldbxS2G9_Nx2dV1s5uhlccK6xyx7Dhm9MIQDOcN1kc7mMvvKQNhXxoC59YQAvD_BwE">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
-</a><br>
-<a href="https://kubernetes.io/">
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes">
-</a>
 
 <h2 align="center">📊 Stats 📊</h2>
 <p align="center">
