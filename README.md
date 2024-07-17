@@ -1,7 +1,7 @@
 # Hi There! I'm Reza:
 
 ## 👨‍💻 About me:
-- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) Average Vim User
+- :trollface:  Average Vim User
 - 🎓 Just a computer engineering student
 - 🧠 Mathematics & Machine Learning & Systems Programming Enthusiast
 - ☢️ Dangerous level of curiosity(Please be careful!⚠️)
