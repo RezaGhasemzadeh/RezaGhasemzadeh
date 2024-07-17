@@ -1,11 +1,10 @@
 # Hi There! I'm Reza:
 
 ## 👨‍💻 About me:
-- 🎓 Education:  Computer Engineering Student at Azad University Of Bojnourd
-- 🧠 Mathematics & Machine Learning Enthusiast
+- 🎓 Just a computer engineering student
+- 🧠 Mathematics & Machine Learning & Systems Programming Enthusiast
 - ☢️ Dangerous level of curiosity(Please be careful!⚠️)
-- 😍 Science & Technology lover
-- 🔍 Working hard to be a Computer Scientist & AI Researcher
+- 🔍 I love Research
 
 ## 💻 Tools and skills I am learning:
 ### 📜 Languages
@@ -15,6 +14,7 @@
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Language"/>
 </a>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 📚 Libararies & Frameworks
 <a href="https://keras.io/">
