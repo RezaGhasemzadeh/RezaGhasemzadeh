@@ -66,7 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGhasemzadeh&theme=radical&hide_border=false" /><br/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGhasemzadeh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGhasemzadeh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 🌐 Connect with me:
