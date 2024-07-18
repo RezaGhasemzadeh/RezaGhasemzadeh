@@ -60,7 +60,7 @@
 
 <h2 align="center">📊 Stats 📊</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RezaGhasemzadeh&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=RezaGhasemzadeh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGhasemzadeh&theme=radical&hide_border=false" /><br/>
