@@ -1,11 +1,11 @@
 # Hi There! I'm Reza:
 
 ## 👨‍💻 About me:
-- :trollface:  Average Vim User
+- :trollface:  Average Vim/Nvim User
 - 🎓 Just a computer engineering student
 - 🧠 Mathematics & Machine Learning & Systems Programming Enthusiast
 - ☢️ Dangerous level of curiosity(Please be careful!⚠️)
-- 🔍 I love Research
+- 🔍 I love Research 
 
 ## 💻 Tools and skills I am learning:
 ### 📜 Languages
