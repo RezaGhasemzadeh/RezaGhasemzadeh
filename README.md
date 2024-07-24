@@ -60,13 +60,12 @@
 
 <h2 align="center">📊 Stats 📊</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RezaGhasemzadeh&theme=radical&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGhasemzadeh&theme=radical&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=RezaGhasemzadeh&show_icons=true&theme=cobalt">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGhasemzadeh&&layout=donut-vertical)](https://github.com/RezaGhasemzadeh/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGhasemzadeh&layout=donut-vertical&theme=cobalt">
+</p>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RezaGhasemzadeh)
